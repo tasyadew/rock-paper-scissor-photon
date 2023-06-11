@@ -1,1 +1,3 @@
-# rtcg-photon-firebase
+# Rock Paper Scissors Online Multiplayer Game
+
+using photon
